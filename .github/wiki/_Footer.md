@@ -1,2 +1,0 @@
-- 📰 [Wiki Home](https://github.com/o2sh/onefetch/wiki) 
-- 🛖 [Project Home](https://github.com/o2sh/onefetch) 
